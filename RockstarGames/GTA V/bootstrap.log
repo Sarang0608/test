@@ -1,0 +1,25 @@
+[2019-07-24 19:32:44.914] [ ERROR ] Option specified in XML does not exist: name="PatchRetries" value="3"
+[2019-07-24 19:32:44.915] [ ERROR ] Option specified in XML does not exist: name="DIPRetries" value="10"
+[2019-07-24 19:32:44.915] [ ERROR ] Option specified in XML does not exist: name="CloudSaveEnabled" value="1"
+[2019-07-24 19:32:44.915] [ ERROR ] Option specified in XML does not exist: name="CloudSaveBetaOnly" value="0"
+[2019-07-24 19:32:44.915] [ ERROR ] Option specified in XML does not exist: name="CloudSaveWorkerThread" value="0"
+[2019-07-24 19:32:44.915] [DISPLAY] Initializing downloader...
+[2019-07-24 19:32:44.915] [DISPLAY] Adding patch checks...
+[2019-07-24 19:32:44.915] [DISPLAY] Checking for updates...
+[2019-07-24 19:32:45.205] [DISPLAY] Download complete!
+[2019-07-24 19:32:45.205] [ ERROR ] Unable to get file version info size for C:\Program Files (x86)\Rockstar Games\GTA V\GTA5.exe
+[2019-07-24 19:32:45.206] [ ERROR ] Last error: 2 : The system cannot find the file specified.
+
+[2019-07-24 19:32:45.652] [ ERROR ] Unable to get file version info size for C:\Program Files (x86)\Rockstar Games\GTA V\PlayGTAV.exe
+[2019-07-24 19:32:45.652] [ ERROR ] Last error: 2 : The system cannot find the file specified.
+
+[2019-07-24 19:32:45.936] [DISPLAY] Download complete!
+[2019-07-24 19:32:45.938] [ ERROR ] Unable to get file version info size for C:\Program Files (x86)\Rockstar Games\GTA V\GTAVLauncher.exe
+[2019-07-24 19:32:45.938] [ ERROR ] Last error: 2 : The system cannot find the file specified.
+
+[2019-07-24 19:32:45.938] [DISPLAY] Shutting down downloader...
+[2019-07-24 19:33:13.940] [DISPLAY] Download complete!
+[2019-07-24 19:33:14.416] [DISPLAY] Download attempt succeeded.
+[2019-07-24 19:33:14.416] [DISPLAY] Installing update...
+[2019-07-24 19:33:14.932] [DISPLAY] About to launch process: C:\Users\SARANG~1\AppData\Local\Temp\GTA_V_Launcher_1_0_505_2.exe (with commandline: /S /silent /WaitForProcess GTAVLauncher.exe)
+[2019-07-24 19:33:21.642] [DISPLAY] Successfully installed patch.

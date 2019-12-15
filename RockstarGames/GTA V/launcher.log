@@ -1,0 +1,15 @@
+[2019-08-06 21:39:39.593] [DISPLAY] Using DPI 120
+[2019-08-06 21:39:39.718] [DISPLAY] File version 10000:2a60001 (for C:\Program Files (x86)\Grand Theft Auto V\GTA5.exe)
+[2019-08-06 21:39:39.843] [DISPLAY] File version 10001:70008 (for C:\Program Files\Rockstar Games\Social Club\socialclub.dll)
+[2019-08-06 21:39:39.843] [DISPLAY] File version 10000:1f90002 (for C:\Program Files (x86)\Grand Theft Auto V\GTAVLauncher.exe)
+[2019-08-06 21:39:39.843] [DISPLAY] Version: |1.0.678.1|1.1.7.8|1.0.505.2|FSP
+[2019-08-06 21:39:40.624] [DISPLAY] OS version: Major: 6, Minor: 2, Build: 9200, Platform: 2
+[2019-08-06 21:39:40.655] [ ERROR ] Could not initialize Steam API
+[2019-08-06 21:39:40.655] [ ERROR ] ************************************************************************
+[2019-08-06 21:39:40.655] [ ERROR ] * Setting error condition
+[2019-08-06 21:39:40.655] [ ERROR ] * Category:  1 (ERROR_CATEGORY_LAUNCHER)
+[2019-08-06 21:39:40.655] [ ERROR ] * Code:     113 (LAUNCHER_ERR_STEAM_FAILED)
+[2019-08-06 21:39:40.655] [ ERROR ] * Extra:     Steam API processing did not succeed.
+[2019-08-06 21:39:40.655] [ ERROR ] * Localised: Steam failed to initialize.  Please exit and try again.
+[2019-08-06 21:39:40.655] [ ERROR ] ************************************************************************
+[2019-08-06 21:39:46.445] [DISPLAY] Uninitializing.
